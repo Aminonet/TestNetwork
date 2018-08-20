@@ -1,1 +1,2 @@
 # AminoNetwork
+Amino is a next-generation decentralised distributed computing network. It provides a platform for sharing computing resources for the computing needs of consumers. The Amino Network whitepaper discusses Amino’s building blocks, the mechanism for task transference within Amino, the distributed framework underpinning Amino and the methodology behind determining (hence rewarding) the sharing of computing resources.   
